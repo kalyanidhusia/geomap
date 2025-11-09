@@ -1,0 +1,52 @@
+State	Per_Capita_Income
+Alabama	54500
+Alaska	70120
+Arizona	61540
+Arkansas	50480
+California	74900
+Colorado	72030
+Connecticut	83110
+Delaware	68900
+District of Columbia	98500
+Florida	62720
+Georgia	58450
+Hawaii	74800
+Idaho	55600
+Illinois	69320
+Indiana	57940
+Iowa	61780
+Kansas	60650
+Kentucky	53210
+Louisiana	51640
+Maine	61230
+Maryland	81500
+Massachusetts	84200
+Michigan	60670
+Minnesota	71890
+Mississippi	47560
+Missouri	58340
+Montana	56890
+Nebraska	62650
+Nevada	60530
+New Hampshire	78820
+New Jersey	82400
+New Mexico	51980
+New York	83140
+North Carolina	59480
+North Dakota	67710
+Ohio	61490
+Oklahoma	55400
+Oregon	67980
+Pennsylvania	69920
+Rhode Island	71500
+South Carolina	55920
+South Dakota	62980
+Tennessee	58610
+Texas	67740
+Utah	63990
+Vermont	69980
+Virginia	76830
+Washington	75640
+West Virginia	49120
+Wisconsin	62380
+Wyoming	65340
